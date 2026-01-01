@@ -35,7 +35,7 @@ Wszystkie wymagane biblioteki znajdują się w pliku `requirements.txt`.
 
 ```bash
 git clone <URL_REPOZYTORIUM>
-cd Aplikacja
+cd Cryptographer
 ```
 
 ### 2️⃣ Instalacja zależności
