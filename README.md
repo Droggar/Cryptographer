@@ -34,7 +34,7 @@ Wszystkie wymagane biblioteki znajdują się w pliku `requirements.txt`.
 ### 1️⃣ Klonowanie repozytorium
 
 ```bash
-git clone <URL_REPOZYTORIUM>
+git clone https://github.com/Droggar/Cryptographer.git
 cd Cryptographer
 ```
 
